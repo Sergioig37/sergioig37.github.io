@@ -7,6 +7,8 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
+  description: Desarrollador de aplicaciones web
+
 
 
 
