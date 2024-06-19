@@ -1,11 +1,125 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My portfolio</title>
+    <title>Portfolio de Sergio Iglesias García</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>ESTE ES MI portfolio</h1>
+    <header class="bg-dark text-white py-5">
+        <div class="container text-center">
+            <img src="/img/image-temporal.jpg" class="rounded-circle mb-3" alt="Imagen temporal" width="150" height="150">
+            <h1 class="display-4">Sergio Iglesias García</h1>
+            <p class="lead">Desarrollador de aplicaciones web</p>
+        </div>
+    </header>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top shadow-sm">
+        <div class="container">
+            <a class="navbar-brand" href="#">Inicio</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="#about">Acerca de Mí</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#experience">Experiencia</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#education">Educación</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#languages">Idiomas</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#competencies">Competencias</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#skills">Habilidades</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container my-5">
+        <section id="about" class="mb-5">
+            <h2 class="text-secondary">Acerca de Mí</h2>
+            <p>Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir aprendiendo y formándome, a la vez que sigo desarrollando mis habilidades tanto profesionales como personales.</p>
+        </section>
+
+        <section id="contact" class="mb-5">
+            <h2 class="text-secondary">Contacto</h2>
+            <ul class="list-unstyled">
+                <li><strong>Teléfono:</strong> +34 684264390</li>
+                <li><strong>Email:</strong> <a href="mailto:sergiotur04@gmail.com">sergiotur04@gmail.com</a></li>
+                <li><strong>Dirección:</strong> Otur S/N, 33792, Valdés, Asturias</li>
+            </ul>
+        </section>
+
+        <section id="experience" class="mb-5">
+            <h2 class="text-secondary">Experiencia Laboral</h2>
+            <div class="card shadow-sm mb-3">
+                <div class="card-body">
+                    <h3 class="card-title">Inetum</h3>
+                    <h5 class="card-subtitle mb-2 text-muted">Estudiante en prácticas</h5>
+                    <p class="card-text">Abril/2024 - Junio/2024</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="education" class="mb-5">
+            <h2 class="text-secondary">Educación</h2>
+            <div class="card shadow-sm mb-3">
+                <div class="card-body">
+                    <h3 class="card-title">IES. Doctor Fleming</h3>
+                    <h5 class="card-subtitle mb-2 text-muted">Grado Superior en Desarrollo de Aplicaciones Web</h5>
+                    <p class="card-text">2022 - 2024</p>
+                </div>
+            </div>
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h3 class="card-title">IES. Carmen y Severo Ochoa</h3>
+                    <h5 class="card-subtitle mb-2 text-muted">Bachillerato de Ciencias</h5>
+                    <p class="card-text">2020 - 2022</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="languages" class="mb-5">
+            <h2 class="text-secondary">Idiomas</h2>
+            <ul class="list-group shadow-sm">
+                <li class="list-group-item">Castellano: Nativo</li>
+                <li class="list-group-item">Inglés: Nivel B2 (Cambridge English: First (FCE))</li>
+                <li class="list-group-item">Francés: Nivel A2 (ESO Bilingüe)</li>
+            </ul>
+        </section>
+
+        <section id="competencies" class="mb-5">
+            <h2 class="text-secondary">Competencias Personales</h2>
+            <ul class="list-group shadow-sm">
+                <li class="list-group-item">Buena comunicación</li>
+                <li class="list-group-item">Resolución de problemas</li>
+                <li class="list-group-item">Trabajo en equipo</li>
+                <li class="list-group-item">Creativo</li>
+                <li class="list-group-item">Persistente</li>
+                <li class="list-group-item">Carné de conducir</li>
+            </ul>
+        </section>
+
+        <section id="skills" class="mb-5">
+            <h2 class="text-secondary">Habilidades Técnicas</h2>
+            <ul class="list-group shadow-sm">
+                <li class="list-group-item"><strong>Lenguajes de Programación:</strong> Java, JavaScript</li>
+                <li class="list-group-item"><strong>Frameworks y Librerías:</strong> SpringBoot, React</li>
+                <li class="list-group-item"><strong>Entornos de Desarrollo:</strong> Eclipse IDE, Visual Studio Code, IntelliJ IDEA</li>
+                <li class="list-group-item"><strong>Desarrollo Web:</strong> HTML, CSS, Bootstrap</li>
+                <li class="list-group-item"><strong>Control de Versiones:</strong> Git y GitHub</li>
+                <li class="list-group-item"><strong>Otros:</strong> Microservicios, Hibernate, Thymeleaf, Jwt, Singleton</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2024 Sergio Iglesias García</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
