@@ -4,7 +4,7 @@ logo: ./img/imagen_temporal.png
 
 description: Desarrollador de aplicaciones web
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-online-cv
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
