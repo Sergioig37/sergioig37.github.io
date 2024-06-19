@@ -1,11 +1,5 @@
 title: Sergio Iglesias García  # You can add your name here
 
-logo: 1.png # Use a relative path to logo image 
-
-description: orld. # Fix hyphenation 
-
-show_downloads: true # Fix spelling
-
 theme: jekyll-theme-minimal 
 
 plugins:
