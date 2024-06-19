@@ -7,26 +7,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-# Contact Information
-phone: "+34 684264390"
-address: "Otur S/N, 33792, Valdés, Asturias"
 
-# Languages
-languages:
-  - name: "Castellano"
-    level: "Nativo"
-  - name: "Inglés"
-    level: "Nivel B2 (Cambridge English: First (FCE))"
-  - name: "Francés"
-    level: "Nivel A2 (ESO Bilingüe)"
 
-# Personal Competencies
-competencies:
-  - "Buena comunicación"
-  - "Resolución de problemas"
-  - "Trabajo en equipo"
-  - "Creativo"
-  - "Persistente"
-  - "Carné de conducir"
 
 
