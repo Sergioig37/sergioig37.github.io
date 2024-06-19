@@ -2,12 +2,16 @@ title: Sergio Iglesias García
 
 logo: ./img/imagen_temporal.png
 
+description: Desarrollador de aplicaciones web
+
 theme: jekyll-theme-minimal 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-description: Desarrollador de aplicaciones web
+  email: sergiotur04@gmail.com
+
+
 
 
 
