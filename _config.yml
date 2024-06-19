@@ -9,7 +9,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-  email: sergiotur04@gmail.com
+email: sergiotur04@gmail.com
 
 
 
