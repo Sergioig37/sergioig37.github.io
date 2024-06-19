@@ -26,3 +26,16 @@ Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir ap
 - **Desarrollo Web:** HTML, CSS, Bootstrap
 - **Control de Versiones:** Git y GitHub
 - **Otros:** Microservicios, Hibernate, Thymeleaf, Jwt, Singleton
+
+- ## Idiomas
+- **Castellano:** Nativo
+- **Inglés:** Nivel B2 (Cambridge English: First (FCE))
+- **Francés:** Nivel A2 (ESO Bilingüe)
+
+## Competencias Personales
+- Buena comunicación
+- Resolución de problemas
+- Trabajo en equipo
+- Creativo
+- Persistente
+- **Carné de conducir**
