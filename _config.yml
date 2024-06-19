@@ -1,8 +1,3 @@
-title: Sergio Iglesias García  # You can add your name here
-theme: jekyll-theme-minimal 
-
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
 
 email: sergiotur04@gmail.com # Allow visitors to contact you
 
@@ -27,3 +22,9 @@ competencies:
   - "Creativo"
   - "Persistente"
   - "Carné de conducir"
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
