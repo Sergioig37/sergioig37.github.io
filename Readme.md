@@ -1,7 +1,5 @@
-
-
 ## Acerca de Mí
-Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir aprendiendo y formándome, a la vez que sigo desarrollando mis habilidades tanto profesionales como personales.
+Soy un desarrollador de aplicaciones web ansioso por seguir aprendiendo y formándome, a la vez que sigo desarrollando mis habilidades tanto profesionales como personales en el campo de la programación.
 
 ## Contacto
 - **Teléfono:** +34 684264390
