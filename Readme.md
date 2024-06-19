@@ -35,7 +35,6 @@ Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir ap
 - ## Idiomas
 - **Castellano:** Nativo
 - **Inglés:** Nivel B2 (Cambridge English: First (FCE))
-- **Francés:** Nivel A2 (ESO Bilingüe)
 
 ## Competencias Personales
 - Buena comunicación
