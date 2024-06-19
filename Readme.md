@@ -1,4 +1,4 @@
-# Your Name
+# Sergio Iglesias García
 Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
 
 ## Summary
@@ -11,8 +11,8 @@ Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.g
 - Tools & Methods: Git, Agile, TDD, etc
 
 ## Experience
-**Company Name** (Dates)   
-Job Title
+**Inetum** (20)   
+Job Titl
 - Accomplishment 1
 - Accomplishment 2  
 
