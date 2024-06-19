@@ -1,8 +1,23 @@
-title: Sergio Iglesias García  # You can add your name here
 
-theme: jekyll-theme-minimal 
+# Contact Information
+phone: "+34 684264390"
+email: "sergiotur04@gmail.com"
+address: "Otur S/N, 33792, Valdés, Asturias"
 
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
+# Languages
+languages:
+  - name: "Castellano"
+    level: "Nativo"
+  - name: "Inglés"
+    level: "Nivel B2 (Cambridge English: First (FCE))"
+  - name: "Francés"
+    level: "Nivel A2 (ESO Bilingüe)"
 
-email: youremail@gmail.com # Allow visitors to contact you
+# Personal Competencies
+competencies:
+  - "Buena comunicación"
+  - "Resolución de problemas"
+  - "Trabajo en equipo"
+  - "Creativo"
+  - "Persistente"
+  - "Carné de conducir"
