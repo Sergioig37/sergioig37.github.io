@@ -7,6 +7,12 @@ Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir ap
 - **Email:** sergiotur04@gmail.com
 - **Dirección:** Otur S/N, 33792, Valdés, Asturias
 
+
+## Experiencia laboral
+### [Inetum]
+**Puesto:** [Estudiante en prácticas]  
+**Duración:** [Abril/2024 - Junio/2024]  
+
 ## Educación
 
 ### IES. Doctor Fleming
