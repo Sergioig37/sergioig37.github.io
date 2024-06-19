@@ -1,11 +1,9 @@
-
+title: Sergio Iglesias García
 
 theme: jekyll-theme-minimal 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
-
-email: sergiotur04@gmail.com # Allow visitors to contact you
 
 # Contact Information
 phone: "+34 684264390"
