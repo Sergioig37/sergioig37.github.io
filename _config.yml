@@ -1,4 +1,10 @@
 
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
 email: sergiotur04@gmail.com # Allow visitors to contact you
 
 # Contact Information
@@ -23,8 +29,4 @@ competencies:
   - "Persistente"
   - "Carné de conducir"
 
-theme: jekyll-theme-minimal 
-
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
 
