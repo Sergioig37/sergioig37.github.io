@@ -25,7 +25,7 @@ Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir ap
 2020 - 2022
 
 ## Habilidades Técnicas
-- **Lenguajes de Programación:** Java, JavaScript
+- **Lenguajes de Programación:** Java, JavaScript, Sql
 - **Frameworks y Librerías:** SpringBoot, React
 - **Entornos de Desarrollo:** Eclipse IDE, Visual Studio Code, IntelliJ IDEA
 - **Desarrollo Web:** HTML, CSS, Bootstrap
