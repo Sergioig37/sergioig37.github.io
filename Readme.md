@@ -32,14 +32,18 @@ Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir ap
 - **Control de Versiones:** Git y GitHub
 - **Otros:** Microservicios, Hibernate, Thymeleaf, Jwt, Singleton
 
-- ## Idiomas
-- **Castellano:** Nativo
-- **Inglés:** Nivel B2 (Cambridge English: First (FCE))
+
 
 ## Competencias Personales
+
+### Habilidades
 - Buena comunicación
 - Resolución de problemas
 - Trabajo en equipo
 - Creativo
 - Persistente
 - **Carné de conducir**
+
+ ### Idiomas
+- **Castellano:** Nativo
+- **Inglés:** Nivel B2 (Cambridge English: First (FCE))
