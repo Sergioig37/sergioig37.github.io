@@ -11,6 +11,7 @@ Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir ap
 ## Experiencia laboral
 ### Inetum
 **Puesto:** Estudiante en prácticas
+
 **Duración:** Abril/2024 - Junio/2024  
 
 ## Educación
