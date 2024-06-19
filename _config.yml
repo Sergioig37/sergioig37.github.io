@@ -1,7 +1,13 @@
+title: Sergio Iglesias García  # You can add your name here
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: sergiotur04@gmail.com # Allow visitors to contact you
 
 # Contact Information
 phone: "+34 684264390"
-email: "sergiotur04@gmail.com"
 address: "Otur S/N, 33792, Valdés, Asturias"
 
 # Languages
