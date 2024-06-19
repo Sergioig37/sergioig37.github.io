@@ -1,12 +1,12 @@
 
-
-## Acerca de Mí
-Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir aprendiendo y formándome, a la vez que sigo desarrollando mis habilidades tanto profesionales como personales.
-
 ## Contacto
 - **Teléfono:** +34 684264390
 - **Email:** sergiotur04@gmail.com
 - **Dirección:** Otur S/N, 33792, Valdés, Asturias
+
+## Acerca de Mí
+Soy un desarrollador de aplicaciones web ansioso por seguir aprendiendo y formándome, a la vez que sigo desarrollando mis habilidades tanto profesionales como personales en el campo de la programación.
+
 
 ## Experiencia Laboral
 
@@ -25,22 +25,26 @@ Soy un estudiante de 2º de Desarrollo de Aplicaciones Web ansioso por seguir ap
 2020 - 2022
 
 ## Habilidades Técnicas
-- **Lenguajes de Programación:** Java, JavaScript
+- **Lenguajes de Programación:** Java, JavaScript, Sql
 - **Frameworks y Librerías:** SpringBoot, React
 - **Entornos de Desarrollo:** Eclipse IDE, Visual Studio Code, IntelliJ IDEA
 - **Desarrollo Web:** HTML, CSS, Bootstrap
 - **Control de Versiones:** Git y GitHub
 - **Otros:** Microservicios, Hibernate, Thymeleaf, Jwt, Singleton
 
-- ## Idiomas
-- **Castellano:** Nativo
-- **Inglés:** Nivel B2 (Cambridge English: First (FCE))
-- **Francés:** Nivel A2 (ESO Bilingüe)
+
 
 ## Competencias Personales
-- Buena comunicación
-- Resolución de problemas
-- Trabajo en equipo
-- Creativo
-- Persistente
-- **Carné de conducir**
+
+### Habilidades
+ - Buena comunicación
+ - Resolución de problemas
+ - Trabajo en equipo
+ - Creativo
+ - Persistente
+ - **Carné de conducir**
+
+ 
+### Idiomas
+ - **Castellano:** Nativo
+ - **Inglés:** Nivel B2 (Cambridge English: First (FCE))
