@@ -1,35 +1,19 @@
 # Sergio Iglesias García
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
 
-## Summary
+
+## Resumen
 1-2 sentences summarizing your professional experience and expertise
 
-## Skills
+## Habilidades
 - Programming Languages: Python, JavaScript, etc 
 - Web Frameworks: React, Django, etc
 - Databases: MySQL, MongoDB
 - Tools & Methods: Git, Agile, TDD, etc
 
-## Experience
-**Inetum** (20)   
-Job Titl
-- Accomplishment 1
-- Accomplishment 2  
+## Experiencia
+**Inetum** (2024 Abril-Junio)   
+Prácticas
 
-**Company Name** (Dates)
-Job Title
-- Accomplishment 1
-- Accomplishment 2
-
-## Projects
-**Project 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
-
-**Project 2** (link)
-- Description 
-- Accomplishment
-
-## Education
+## Educación
 **Degree** | University Name | Date Graduated
 Courses, activities, or other details
